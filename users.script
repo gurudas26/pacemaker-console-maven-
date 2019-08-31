@@ -1,0 +1,4 @@
+cu usr1 lname1 usr1@some.com pwd
+cu usr2 lname1 usr2@some.com pwd
+cu usr3 lname1 usr3@some.com pwd
+gu
